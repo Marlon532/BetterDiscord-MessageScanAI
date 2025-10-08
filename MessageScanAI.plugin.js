@@ -24,11 +24,11 @@ const config = {
   settings: [
     {
       type: 'text',
-      id: 'api-key',
-      name: 'Gemini API Key',
+      id: 'AIzaSyCsi8-EfljQHaOcETyEB8dCo636LMxRS1Y',
+      name: 'Key',
       note: 'The API key used to authenticate with the Google Gemini API',
       value: '',
-      placeholder: 'API key (Ex: HPHpiv4TAiGXksscG5mUhisGlFTOxFX3Zmjkhhx)',
+      placeholder: 'API key (Ex: AIzaSyCsi8-EfljQHaOcETyEB8dCo636LMxRS1Y)',
     },
     {
       type: 'dropdown',
